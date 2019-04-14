@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheetDialogTest</string>
+    <string name="email">Email</string>
+    <string name="sms">Sms</string>
+    <string name="other">Other</string>
+    <string name="close">Close</string>
+</resources>
